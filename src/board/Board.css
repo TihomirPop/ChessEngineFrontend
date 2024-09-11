@@ -1,0 +1,12 @@
+select, input, button {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #779556;
+    color: white;
+    cursor: pointer;
+}
